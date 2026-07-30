@@ -150,4 +150,4 @@ def lambda_handler(event, context):
 - Integration type: Chọn Lambda Function => Chọn telco-churn-api.
 ![post-api](/images/5-Workshop/5.3-Implementation/post-api.png)
 - Bấm Next và Deploy API.
-- Sao chép đường dẫn Invoke URL dạng: https://<api-id>[.execute-api.ap-southeast-1.amazonaws.com/predict](https://c6kbjaktj9.execute-api.ap-southeast-1.amazonaws.com/predict)
+- Sao chép đường dẫn Invoke URL dạng: [https://<api-id>.execute-api.ap-southeast-1.amazonaws.com/predict](https://c6kbjaktj9.execute-api.ap-southeast-1.amazonaws.com/predict)
