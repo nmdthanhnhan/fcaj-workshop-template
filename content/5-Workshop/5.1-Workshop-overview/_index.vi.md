@@ -31,7 +31,7 @@ Sau khi hoàn thành bài lab này, bạn sẽ nắm vững và triển khai đ�
 
 #### Sơ đồ Kiến trúc Hệ thống (Architecture Diagram)
 
-![System Architecture Diagram](/images/5-Workshop/5.1-Workshop-overview/diagram.png)
+![System Architecture Diagram](/images/5-Workshop/5.1-Workshop-overview/diagram.ipg)
 
 **Các Dịch vụ AWS Sử Dụng:**
 *   **Amazon S3:** Lưu trữ Dữ liệu thô, Dữ liệu đã xử lý và Model Artifacts.
