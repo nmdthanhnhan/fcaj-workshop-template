@@ -160,4 +160,4 @@ Phiên nói chuyện về **GraphRAG** chính là spotlight của buổi tối h
 
 ![FCAJ Meetup 1 - ngày 6 tháng 6, 2026](/images/4-EventParticipated/4.1-Event1/meetup-1.jpg)
 
-> Nhìn chung, FCAJ Meetup là một cú đề-pa đầy nhiệt huyết cho con đường học tập từ cộng đồng của mình. Sự phong phú của các chủ đề — trải dài từ làm game, làm AI cho đến chuyện phát triển sự nghiệp — đã cho mình thấy thế giới Cloud & AI này rộng lớn và đầy ắp những điều thú vị đến nhường nào. Mình bước ra khỏi sự kiện với một cái đầu đầy ý tưởng mới, những người bạn mới và một nguồn động lực to lớn để tiếp tục con đường chinh phục công nghệ.
+> Túm lại, FCAJ Meetup là một cú đề-pa đầy nhiệt huyết cho con đường học tập từ cộng đồng của mình. Sự phong phú của các chủ đề — trải dài từ làm game, làm AI cho đến chuyện phát triển sự nghiệp — đã cho mình thấy thế giới Cloud & AI này rộng lớn và đầy ắp những điều thú vị đến nhường nào. Mình bước ra khỏi sự kiện với một cái đầu đầy ý tưởng mới, những người bạn mới và một nguồn động lực to lớn để tiếp tục con đường chinh phục công nghệ.
