@@ -1,11 +1,13 @@
 ---
-title: "The Connection Exhaustion Problem Between AWS Lambda and Amazon RDS"
+title: "Blog 1"
 date: 2026-07-29
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
+
+** The Connection Exhaustion Problem Between AWS Lambda and Amazon RDS
 
 [Link blogposted](https://www.facebook.com/share/p/17yd4RF4ZF/)
 
