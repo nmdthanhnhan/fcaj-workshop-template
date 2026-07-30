@@ -10,7 +10,7 @@ pre: " <b> 3.1. </b> "
 # The Connection Exhaustion Problem Between AWS Lambda and Amazon RDS
 
 
-[Link blogposted](https://www.facebook.com/share/p/17yd4RF4ZF/)
+[Link blog 1](https://www.facebook.com/share/p/17yd4RF4ZF/)
 
 
 When applying standard theories about Connection Pooling to the cloud computing environment with a Serverless architecture, we face a real "nightmare" in terms of system architecture. This article will share in detail about the Connection Exhaustion problem when combining AWS Lambda with a relational database (RDBMS), and how Amazon RDS Proxy thoroughly solves this bottleneck.
