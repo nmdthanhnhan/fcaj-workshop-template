@@ -22,7 +22,6 @@ Các điểm chính cần nắm:
 
 Phần lớn các sự cố khi triển khai ứng dụng không xuất phát từ việc "code sai", mà đến từ cách hệ thống được cấu hình và vận hành. Một ứng dụng ổn định đòi hỏi việc giám sát trạng thái, ghi log đầy đủ, quản lý quyền hợp lý và có khả năng chịu lỗi. Đó cũng là lý do AWS xây dựng một hệ sinh thái hoàn chỉnh không chỉ để lưu trữ hay tính toán, mà còn hỗ trợ vận hành ứng dụng trong môi trường thực tế.
 
-![Các lỗi triển khai phổ biến và giải pháp AWS](/images/blog3.jpg)
 
 Tài liệu tham khảo:
 
