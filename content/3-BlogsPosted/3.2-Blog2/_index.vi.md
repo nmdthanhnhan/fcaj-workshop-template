@@ -1,7 +1,7 @@
 ---
 title: "Bảo mật trong phát triển phần mềm – Không chỉ là viết code an toàn"
 date: 2026-07-30
-weight: 1
+weight: 2
 chapter: false
 pre: " <b> 3.2. </b> "
 ---
