@@ -6,6 +6,7 @@ chapter: false
 pre: " <b> 2. </b> "
 ---
 
+# MLOps Platform for Telco Customer Churn Prediction
 ## Hệ thống MLOps tự động hóa huấn luyện, đánh giá và triển khai mô hình dự đoán rời bỏ dịch vụ viễn thông trên AWS
 
 ### 1. Tóm tắt điều hành  
