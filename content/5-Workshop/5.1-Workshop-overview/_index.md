@@ -31,7 +31,7 @@ After completing this lab, you will master and be able to deploy:
 
 #### System Architecture Diagram
 
-![System Architecture Diagram](/images/architecture.png)
+![System Architecture Diagram](/images/5-Workshop/5.1-Workshop-overview/diagram.png)
 
 **AWS Services Used:**
 *   **Amazon S3:** Stores Raw Data, Processed Data, and Model Artifacts.
