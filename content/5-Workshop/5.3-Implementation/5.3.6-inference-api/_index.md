@@ -150,4 +150,4 @@ def lambda_handler(event, context):
 - Integration type: Select Lambda Function => Select telco-churn-api.
 ![post-api](/images/5-Workshop/5.3-Implementation/post-api.png)
 - Click Next and Deploy API.
-- Copy Invoke URL string format: https://<api-id>[.execute-api.ap-southeast-1.amazonaws.com/predict](https://c6kbjaktj9.execute-api.ap-southeast-1.amazonaws.com/predict)
+- Copy Invoke URL string format: [https://<api-id>.execute-api.ap-southeast-1.amazonaws.com/predict](https://c6kbjaktj9.execute-api.ap-southeast-1.amazonaws.com/predict)
