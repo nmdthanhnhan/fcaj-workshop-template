@@ -22,7 +22,6 @@ Key takeaways:
 
 Most application deployment issues do not stem from "bad code", but rather from how the system is configured and operated. A stable application requires comprehensive logging, proper access management, fault-tolerant design, and a solid scalability plan. This is why AWS builds a complete ecosystem supporting the deployment, monitoring, and operation of applications in real-world environments.
 
-![Common deployment errors and AWS solutions](/images/blog3.jpg)
 
 References:
 
