@@ -9,7 +9,7 @@ pre: " <b> 4.4. </b> "
 # Ghi Chép Cá Nhân: FCAJ Meetup #3 – Trận Chiến Kiến Thức AWS
 
 **Ngày tổ chức:** 20 tháng 06, 2026.  
-**Hình thức:** Gặp mặt trực tiếp.
+**Hình thức:** Gặp mặt trực tiếp.                  
 **Địa điểm:** Tầng 26, Tòa nhà Bitexco, 02 Hải Triều, Phường Bến Nghé, TP. Hồ Chí Minh.  
 **Hình thức:** Thi đấu kiến thức theo đội.  
 
