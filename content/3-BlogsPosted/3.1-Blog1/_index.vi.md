@@ -1,10 +1,12 @@
 ---
-title: "Bài toán cạn kiệt kết nối giữa AWS Lambda và Amazon RDS"
+title: "Blog 1"
 date: 2026-07-29
 weight: 1
 chapter: false
 pre: " <b> 3.1. </b> "
 ---
+
+# Bài toán cạn kiệt kết nối giữa AWS Lambda và Amazon RDS
 
 
 [Link bài đăng](https://www.facebook.com/share/p/17yd4RF4ZF/)
