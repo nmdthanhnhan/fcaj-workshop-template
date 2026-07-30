@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Ghi Chép Cá Nhân: Buổi gặp gỡ FCAJ 06-06-2026
+# Buổi gặp gỡ FCAJ 06-06-2026
 
 **Ngày tổ chức:** 6 tháng 6, 2026.  
 **Hình thức:** Gặp mặt trực tiếp.  
