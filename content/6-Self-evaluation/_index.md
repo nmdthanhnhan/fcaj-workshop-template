@@ -7,7 +7,7 @@ pre: " <b> 6. </b> "
 ---
 
 
-During my internship at **Amazon Web Services Viet Nam Company Limited (First Cloud AI Journey Program)** from **01/06/2026** to **31/07/2026**, I had the opportunity to learn, practice, and apply the knowledge acquired at university into a practical working environment.  
+During my internship at **Amazon Web Services Viet Nam Company Limited (First Cloud AI Journey Program)** from **08/06/2026** to **31/07/2026**, I had the opportunity to learn, practice, and apply the knowledge acquired at university into a practical working environment.  
 I participated in the **Project of building and deploying an end-to-end Machine Learning system on AWS with SageMaker**, thereby improving my skills in **Python programming, MLOps workflow design, Serverless infrastructure deployment (Lambda, API Gateway), and data analysis**.  
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
