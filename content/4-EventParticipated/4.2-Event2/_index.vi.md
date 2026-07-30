@@ -9,8 +9,11 @@ pre: " <b> 4.2. </b> "
 # FCAJ Meetup 2 
 
 **Ngày tổ chức:** 13 tháng 06, 2026.
+
 **Hình thức:** Gặp mặt trực tiếp.
+
 **Địa điểm:** Tầng 26, Tòa nhà Bitexco, 02 Hải Triều, Phường Bến Nghé, TP. Hồ Chí Minh.  
+
 **Ban tổ chức:** Cộng đồng First Cloud & AI Journey (FCAJ).
 
 ---
