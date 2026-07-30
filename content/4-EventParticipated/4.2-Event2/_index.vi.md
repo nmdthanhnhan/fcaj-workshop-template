@@ -116,6 +116,6 @@ Lộ trình thăng tiến của anh Nghị thông qua hệ sinh thái cộng đ�
 
 #### Một Số Hình Ảnh Khi Tham Gia Sự Kiện
 
-![FCAJ Meetup 2](meetup%20-%202.jpg)
+![FCAJ Meetup 2](/images/4-EventParticipated/4.1-Event1/meetup-2.jpg)
 
 > Tóm lại, FCAJ Meetup #2 là một sự pha trộn hoàn hảo giữa định hướng kỹ thuật chuyên sâu và sự chuẩn bị kỹ lưỡng về mặt tư duy văn hóa. Buổi meetup không chỉ đưa cho mình một "menu" các công nghệ cần học, mà còn trang bị cho mình thái độ chuyên nghiệp cần thiết để có thể sống sót và phát triển mạnh mẽ trong môi trường công nghệ hiện đại.
