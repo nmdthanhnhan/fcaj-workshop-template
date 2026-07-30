@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Personal Notes: FCAJ Meetup 06-06-2026
+# FCAJ Meetup 06-06-2026
 
 **Date:** June 06, 2026.  
 **Format:** In-person.  
