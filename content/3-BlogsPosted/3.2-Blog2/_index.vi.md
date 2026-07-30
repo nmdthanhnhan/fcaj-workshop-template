@@ -6,9 +6,9 @@ chapter: false
 pre: " <b> 3.2. </b> "
 ---
 
-# BẢO MẬT TRONG PHÁT TRIỂN PHẦN MỀM – KHÔNG CHỈ LÀ VIẾT CODE AN TOÀN
 
 [Link bài đăng](https://www.facebook.com/share/p/18aas3Dc43/)
+
 
 Trong quá trình học AWS, cả nhóm nhận ra một điều khá thú vị. Khi mới làm project, hầu hết chúng ta chỉ tập trung vào việc "làm sao cho ứng dụng chạy được". Nhưng một khi ứng dụng được đưa lên Internet, câu hỏi quan trọng hơn nhiều lại là: làm sao để ứng dụng vẫn an toàn? Một ứng dụng có thể chạy rất mượt về mặt chức năng, nhưng chỉ cần một cấu hình sai hoặc một lỗ hổng nhỏ, dữ liệu có thể bị lộ hoặc hệ thống bị tấn công bất cứ lúc nào. AWS không chỉ cho mình hạ tầng để triển khai ứng dụng, mà còn có cả một loạt dịch vụ giúp xây dựng kiến trúc bảo mật ngay từ đầu, chứ không phải chờ đến khi có sự cố mới đi vá.
 
