@@ -116,6 +116,6 @@ Mr. Nghi's career progression path through the AWS community ecosystem is a huge
 
 #### Images While Attending the Event
 
-![FCAJ Meetup 2](meetup%20-%202.jpg)
+![FCAJ Meetup 2](/images/4-EventParticipated/4.1-Event1/meetup-2.jpg)
 
 > In short, FCAJ Meetup #2 was a perfect blend of in-depth technical orientation and thorough preparation in cultural mindset. The meetup didn't just hand me a "menu" of technologies to learn, but also equipped me with the professional attitude necessary to survive and thrive in the modern tech environment.
