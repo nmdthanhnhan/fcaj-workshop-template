@@ -1,5 +1,5 @@
 ---
-title: "[FCAJ2026] Những lỗi thường gặp khi triển khai ứng dụng và cách AWS giúp xử lý"
+title: "Blog 3"
 date: 2026-07-30
 weight: 3
 chapter: false
