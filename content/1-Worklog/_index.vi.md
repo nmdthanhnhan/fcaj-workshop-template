@@ -3,6 +3,7 @@ title: "Worklog"
 date: 2026-06-08
 weight: 1
 chapter: false
+pre: " <b> 1. </b> "
 ---
 
 ### Báo cáo tiến độ thực tập (8 Tuần)
