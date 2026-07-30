@@ -37,7 +37,9 @@ Estimated Cost: ~$2.5 - $4.0 USD/month for pipeline retrain runs and serverless 
 - *AWS SageMaker Pipelines*: Orchestrates 4-step MLOps workflow (Processing, Tuning, Evaluation, Condition & Register).  
 - *AWS SageMaker Model Registry*: Manages model versions and approval statuses.  
 - *Amazon EventBridge & AWS Lambda (Deployer)*: Listens for Model Approved events to automatically update Serverless Endpoint.  
-- *Amazon CloudWatch & Amazon SNS*: Stores Logs, sets Alarms for API/Endpoint errors, and sends automated Email notifications to Gmail.  
+- *Amazon CloudWatch & Amazon SNS*: Stores Logs, sets Alarms for API/Endpoint errors, and sends automated Email notifications to Gmail.
+
+  ![Architecture](/images/2-Proposal/architecture.png)
 
 ### 4. Technical Implementation  
 *Implementation Phases*  
