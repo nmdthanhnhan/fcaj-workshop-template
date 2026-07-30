@@ -6,22 +6,20 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
+
 ### Internship Progress Report (8 Weeks)
+This page records in detail the activities, tasks, and achievements during the 8-week internship on the topic **Building and Deploying an End-to-End Machine Learning System on AWS with SageMaker**. 
 
-This page records in detail the activities, tasks, and achievements during the 8-week internship on the topic **Building and Deploying an End-to-End Machine Learning System on AWS with SageMaker**.
-
-#### 8-Week Roadmap Summary
-
+#### 8-Week Roadmap Summary (08/06/2026 - 31/07/2026)
 | Week | Main Topic | Core Tasks |
 | :---: | :--- | :--- |
-| **Week 1** | Overview of ML Workflow & AWS ML Ecosystem | Understand the ML workflow; configure the security environment (IAM, S3, SageMaker Studio). |
-| **Week 2** | Data Processing (Data Preprocessing) | Prepare, process data, and perform feature engineering with SageMaker Processing Jobs. |
-| **Week 3** | Model Training (Training Jobs) | Train models on SageMaker; experiment with built-in algorithms or custom scripts. |
-| **Week 4** | Experiment Tracking & Hyperparameter Optimization | Manage with SageMaker Experiments; find optimal configurations using Automatic Model Tuning (HPO). |
-| **Week 5** | Model Lifecycle Management (Model Registry) | Package, register the model in SageMaker Model Registry, and set up model versioning. |
-| **Week 6** | Model Deployment | Deploy to SageMaker Endpoint (real-time inference); integrate API Gateway and Lambda. |
-| **Week 7** | Model Monitoring | Set up monitoring with SageMaker Model Monitor and CloudWatch; detect data drift. |
-| **Week 8** | Pipeline Automation & Summary | Automate the entire workflow with SageMaker Pipelines; complete the report and website. |
+| **Week 1** | Overview of ML Workflow & AWS ML | Learn ML workflow theory; security architecture (IAM, S3) and SageMaker Studio workspace. |
+| **Week 2** | Data Processing (Data Preprocessing) | Research data preprocessing theory and the resource provisioning architecture of SageMaker Processing Jobs. |
+| **Week 3** | Model Training (Training Jobs) | Learn training methods on SageMaker (Comparing Built-in algorithms vs Custom scripts). |
+| **Week 4** | MLOps & Experiment Tracking | Team explores MLOps, analyzes dataset; gets familiar with Automatic Model Tuning and SageMaker Experiments. |
+| **Week 5** | Architecture Design & Model Registry | Team designs Pipeline architecture, writes Proposal; studies model lifecycle management mechanisms. |
+| **Week 6** | Pipeline Automation | Team builds the complete SageMaker Pipeline (Processing, Tuning, Eval, Condition, Register). |
+| **Week 7** | Deployment & End-to-End Testing | Team configures EventBridge, Lambda Auto-Deploy, integrates API Gateway, and tests the entire system flow. |
+| **Week 8** | Technical Blogs & Summary | Team researches RDS Proxy, AWS Security; writes technical blogs, cleans up resources, and finalizes the report. |
 
----
 *Please select each week from the left menu to view the detailed tasks implemented.*
