@@ -25,7 +25,7 @@ Key points to know:
 Integrating Amazon RDS Proxy turns a potentially risky "bottleneck" architecture into a flexible system, free to scale and handle tens of thousands of requests while the backend database remains perfectly safe.
 
 
-![Amazon RDS Proxy Architecture](post1.png)
+![Amazon RDS Proxy Architecture](/images/blog1.jpg)
 
 References:
 
