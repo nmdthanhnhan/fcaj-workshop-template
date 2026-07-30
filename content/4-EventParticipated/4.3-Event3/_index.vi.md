@@ -53,9 +53,7 @@ Trực tiếp cọ xát trong một sự kiện thi đấu thế này giúp mìn
 
 ### Một Số Hình Ảnh Tại Sự Kiện
 
-![FCAJ Meetup 3 - Trận chiến kiến thức AWS](meetup-3.JPG)
-![FCAJ Meetup 3 - Các đội thi đấu](meetup-3%20(1).JPG)
-![FCAJ Meetup 3 - Phiên thi hỏi đáp](meetup-3%20(2).JPG)
-![FCAJ Meetup 3 - Ảnh tập thể](meetup-3%20(3).JPG)
+![FCAJ Meetup 3 - Trận chiến kiến thức AWS](/images/4-EventParticipated/4.3-Event3/meetup-3-1.jpg)
+![FCAJ Meetup 3 - Các đội thi đấu](/images/4-EventParticipated/4.3-Event3/meetup-3.jpg)
 
 > Túm lại, hình thức thi đấu kiến thức này là phiên bản FCAJ Meetup thú vị và để lại ấn tượng sâu đậm nhất với mình từ trước tới giờ. Việc game hóa (gamification) quá trình học AWS không chỉ bơm đầy năng lượng cho cả phòng mà còn biến những kiến thức khô khan, phức tạp trở nên cực kỳ dễ nhớ. Mình rời sự kiện với một cái đầu sáng hơn rất nhiều về tư duy thiết kế kiến trúc của một Solutions Architect.
