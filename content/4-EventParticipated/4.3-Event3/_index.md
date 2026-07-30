@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.4. </b> "
 ---
 
-# Personal Notes: FCAJ Meetup #3 – AWS Knowledge Battle
+# FCAJ Meetup 3 – AWS Knowledge Battle
 
 **Date:** June 20, 2026.  
 **Format:** In-person.  
