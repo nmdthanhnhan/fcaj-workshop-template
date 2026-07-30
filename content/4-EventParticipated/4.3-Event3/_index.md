@@ -53,9 +53,7 @@ Directly rubbing shoulders in a competitive event like this helped me "absorb" a
 
 ### Event Images
 
-![FCAJ Meetup 3 - AWS knowledge battle](meetup-3.JPG)
-![FCAJ Meetup 3 - Competing teams](meetup-3%20(1).JPG)
-![FCAJ Meetup 3 - Q&A session](meetup-3%20(2).JPG)
-![FCAJ Meetup 3 - Group photo](meetup-3%20(3).JPG)
+![FCAJ Meetup 3 - AWS knowledge battle](/images/4-EventParticipated/4.3-Event3/meetup-3-1.jpg)
+![FCAJ Meetup 3 - Competing teams](/images/4-EventParticipated/4.3-Event3/meetup-3.jpg)
 
 > In short, this knowledge competition format is the most interesting and deeply impressive FCAJ Meetup version for me so far. Gamifying the AWS learning process not only pumped full energy into the room but also made dry, complex knowledge extremely easy to remember. I left the event with a much brighter mind about the architectural design thinking of a Solutions Architect.
