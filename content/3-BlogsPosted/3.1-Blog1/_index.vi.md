@@ -24,7 +24,7 @@ Các điểm chính cần nắm:
 Việc tích hợp Amazon RDS Proxy biến một kiến trúc tiềm ẩn rủi ro "nghẽn cổ chai" thành một hệ thống linh hoạt, tự do mở rộng đón hàng chục nghìn lượt truy cập mà cơ sở dữ liệu phía sau vẫn bình yên vô sự.
 
 
-![Kiến trúc hoạt động của Amazon RDS Proxy](/images/post1.png)
+![Kiến trúc hoạt động của Amazon RDS Proxy](/images/blog1.jpg)
 
 Tài liệu tham khảo:
 
