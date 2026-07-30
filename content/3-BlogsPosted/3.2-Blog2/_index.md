@@ -1,13 +1,15 @@
 ---
-title: "Security in Software Development – More Than Just Writing Secure Code"
+title: "Blog 2"
 date: 2026-07-30
 weight: 2
 chapter: false
 pre: " <b> 3.2. </b> "
 ---
 
+# Security in Software Development – More Than Just Writing Secure Code
 
-[Link blogposted](https://www.facebook.com/share/p/18aas3Dc43/)
+
+[Link blog](https://www.facebook.com/share/p/18aas3Dc43/)
 
 
 During our process of learning AWS, the team realized something quite interesting. When starting a new project, most of us only focus on "how to make the application work". But once the application is deployed to the Internet, a much more important question arises: how to keep the application secure? An application might run smoothly in terms of functionality, but with just a misconfiguration or a small vulnerability, data can be exposed or the system can be attacked at any time. AWS not only provides the infrastructure to deploy applications but also offers a suite of services to help build a secure architecture from the very beginning, rather than waiting for an incident to occur before patching it.
