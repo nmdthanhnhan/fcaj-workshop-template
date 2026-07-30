@@ -3,7 +3,7 @@ title: "Security in Software Development – More Than Just Writing Secure Code"
 date: 2026-07-30
 weight: 1
 chapter: false
-pre: " <b> 5.5. </b> "
+pre: " <b> 3.2. </b> "
 ---
 
 # SECURITY IN SOFTWARE DEVELOPMENT – MORE THAN JUST WRITING SECURE CODE
