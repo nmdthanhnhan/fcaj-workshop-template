@@ -15,5 +15,5 @@ This blog details the Connection Exhaustion problem when combining AWS Lambda's 
 ### [Blog 2 - SECURITY IN SOFTWARE DEVELOPMENT – MORE THAN JUST WRITING SECURE CODE](3.2-Blog2/)
 A smoothly running application is not necessarily secure once exposed to the Internet. This blog summarizes core AWS security principles: avoiding hardcoded Access Keys, applying Least Privilege, designing network tiers (Public/Private Subnets), and utilizing services like AWS WAF, Amazon GuardDuty, and Inspector for continuous system monitoring and protection.
 
-### [Blog 3 - [FCAJ2026] COMMON ERRORS WHEN DEPLOYING APPLICATIONS AND HOW AWS HELPS RESOLVE THEM](3.3-Blog3/)
+### [Blog 3 - COMMON ERRORS WHEN DEPLOYING APPLICATIONS AND HOW AWS HELPS RESOLVE THEM](3.3-Blog3/)
 Operating in the Cloud often introduces more real-world issues than local development. This article compiles classic errors such as website inaccessibility, 403 Forbidden permission errors, cryptic 500 Internal Server Errors, and data loss risks, providing effective solutions using the robust AWS management ecosystem.
