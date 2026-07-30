@@ -9,7 +9,7 @@ pre: " <b> 3.1. </b> "
 # Bài toán cạn kiệt kết nối giữa AWS Lambda và Amazon RDS
 
 
-[Link bài đăng](https://www.facebook.com/share/p/17yd4RF4ZF/)
+[Link bài đăng 1](https://www.facebook.com/share/p/17yd4RF4ZF/)
 
 
 Khi mang những lý thuyết chuẩn mực về Connection Pooling (Hồ chứa kết nối) lên áp dụng trên môi trường điện toán đám mây với kiến trúc phi máy chủ (Serverless), chúng ta lại đụng phải một "cơn ác mộng" thực sự về mặt kiến trúc hệ thống. Bài viết này sẽ chia sẻ chi tiết về bài toán Cạn kiệt kết nối (Connection Exhaustion) khi kết hợp AWS Lambda với cơ sở dữ liệu quan hệ (RDBMS), và cách Amazon RDS Proxy giải quyết triệt để nút thắt này.
