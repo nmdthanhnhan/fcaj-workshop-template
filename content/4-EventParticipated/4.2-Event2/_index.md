@@ -9,8 +9,11 @@ pre: " <b> 4.2. </b> "
 # FCAJ Meetup 2 
 
 **Date:** June 13, 2026.  
+
 **Format:** In-person.  
+
 **Location:** Floor 26, Bitexco Financial Tower, 02 Hai Trieu, Ben Nghe Ward, Ho Chi Minh City.  
+
 **Organizer:** First Cloud & AI Journey (FCAJ) Community.
 
 ---
