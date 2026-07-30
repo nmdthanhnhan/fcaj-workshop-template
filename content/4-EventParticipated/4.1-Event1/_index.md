@@ -158,6 +158,6 @@ The talk on **GraphRAG** was the spotlight of that evening for me personally. It
 
 #### Images While Attending the Event
 
-![FCAJ Meetup 1 - June 06, 2026](meetup-1.jpg)
+![FCAJ Meetup 1 - June 06, 2026](/images/meetup-1.jpg)
 
 > Overall, the FCAJ Meetup was a highly enthusiastic head start for my journey of learning from the community. The richness of the topics — ranging from game development, AI making, to career advancement — showed me just how vast and full of interesting things this Cloud & AI world is. I walked out of the event with a head full of new ideas, new friends, and an immense source of motivation to continue the path of conquering technology.
