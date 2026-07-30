@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Ghi Chép Cá Nhân: FCAJ Meetup #2 
+# FCAJ Meetup 2 
 
 **Ngày tổ chức:** 13 tháng 06, 2026.
 **Hình thức:** Gặp mặt trực tiếp.
