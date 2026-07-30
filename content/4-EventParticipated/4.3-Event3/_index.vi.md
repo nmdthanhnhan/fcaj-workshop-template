@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Ghi Chép Cá Nhân: FCAJ Meetup #3 – Trận Chiến Kiến Thức AWS
+# FCAJ Meetup 3 – Trận Chiến Kiến Thức AWS
 
 **Ngày tổ chức:** 20 tháng 06, 2026.  
 **Hình thức:** Gặp mặt trực tiếp.                  
