@@ -3,7 +3,7 @@ title: "Event 3"
 date: 2026-06-21
 weight: 3
 chapter: false
-pre: " <b> 4.4. </b> "
+pre: " <b> 4.3. </b> "
 ---
 
 # Ghi Chép Cá Nhân: FCAJ Meetup #3 – Trận Chiến Kiến Thức AWS
