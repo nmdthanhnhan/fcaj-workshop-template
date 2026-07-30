@@ -7,7 +7,7 @@ pre: " <b> 6. </b> "
 ---
 
 
-Trong suốt thời gian thực tập tại **Amazon Web Services Viet Nam Company Limited (Chương trình First Cloud AI Journey)** từ **01/06/2026** đến **31/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Trong suốt thời gian thực tập tại **Amazon Web Services Viet Nam Company Limited (Chương trình First Cloud AI Journey)** từ **08/06/2026** đến **31/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
 Tôi đã tham gia **Dự án xây dựng và triển khai hệ thống Machine Learning end-to-end trên AWS với SageMaker**, qua đó cải thiện kỹ năng **lập trình Python, thiết kế quy trình MLOps, triển khai hạ tầng Serverless (Lambda, API Gateway) và phân tích dữ liệu**.  
 
 Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
