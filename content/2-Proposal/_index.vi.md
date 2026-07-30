@@ -80,4 +80,4 @@ Xây dựng hệ thống MLOps trên nền tảng AWS SageMaker Workflow (Pipeli
 
 ### 8. Kết quả kỳ vọng  
 - Về kỹ thuật: Triển khai thành công quy trình MLOps khép kín tự động 100%: Data Upload => Drift Check => Pipeline => Model Registry => Auto-Deploy => Serverless Endpoint => CloudFront (WAF).
-- Về vận hành & An toàn: Giảm 95% công sức thao tác thủ công của Data/MLOps Engineer khi triển khai phiên bản mô hình mới, đồng thời đảm bảo API thời gian thực luôn an toàn và sẵn sàng phục vụ các yêu cầu từ Client.
+- Về vận hành & An toàn: Giảm 95% thao tác thủ công của Data/MLOps Engineer khi triển khai phiên bản mô hình mới, đồng thời đảm bảo API thời gian thực luôn an toàn và sẵn sàng phục vụ các yêu cầu từ Client.
