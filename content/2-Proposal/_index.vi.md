@@ -35,7 +35,9 @@ Chi phí ước tính: ~$2.5 - $4.0 USD/tháng cho các đợt pipeline retrain 
 - *AWS SageMaker Pipelines*: Điều phối quy trình MLOps 4 bước (Processing, Tuning, Evaluation, Condition & Register).  
 - *AWS SageMaker Model Registry*: Quản lý các phiên bản mô hình và trạng thái phê duyệt.  
 - *Amazon EventBridge & AWS Lambda (Deployer)*: Lắng nghe sự kiện Model Approved để tự động cập nhật Serverless Endpoint.  
-- *Amazon CloudWatch & Amazon SNS*: Lưu trữ Logs, đặt Alarm cảnh báo lỗi API/Endpoint và gửi Email thông báo tự động về Gmail.  
+- *Amazon CloudWatch & Amazon SNS*: Lưu trữ Logs, đặt Alarm cảnh báo lỗi API/Endpoint và gửi Email thông báo tự động về Gmail.
+
+  ![Architecture](/images/2-Proposal/architecture.png)
 
 ### 4. Triển khai kỹ thuật  
 *Các giai đoạn triển khai*  
