@@ -6,6 +6,8 @@ chapter: false
 pre: " <b> 5.2. </b> "
 ---
 
+# Các bước chuẩn bị cho Workshop 
+
 
 Trước khi tiến hành triển khai hệ thống MLOps trên AWS, cần chuẩn bị đầy đủ tài khoản, quyền truy cập IAM, các IAM Role hỗ trợ, cấu trúc lưu trữ S3 và môi trường thực thi theo hướng dẫn dưới đây.
 
