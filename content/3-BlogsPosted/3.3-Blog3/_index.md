@@ -1,31 +1,31 @@
 ---
-title: "Blog 3"
-date: 2026-07-30
+title: "Infrastructure Management with Terraform – Not Just Clicking on the Console"
+date: 2026-07-31
 weight: 3
 chapter: false
 pre: " <b> 3.3. </b> "
 ---
 
-# COMMON ERRORS WHEN DEPLOYING APPLICATIONS AND HOW AWS HELPS RESOLVE THEM
+# INFRASTRUCTURE MANAGEMENT WITH TERRAFORM – NOT JUST CLICKING ON THE CONSOLE
 
-[Link blog 3](https://www.facebook.com/share/p/18aas3Dc43/)
+[Link to the post](https://www.facebook.com/share/p/1JCgUcBu4c/)
 
-After learning about deploying applications on AWS, our team realized that writing an application is just the first step. In reality, the operational phase is where most problems arise. An application might run perfectly on a personal machine, but when deployed to the Cloud, it can encounter numerous errors that prevent users from accessing it. Below are some common situations we learned about while studying AWS.
+During the process of learning and working on Cloud projects, creating resources by clicking on the AWS Management Console is very intuitive but reveals many risks when the project scales (hard to replicate systems, risk of misclicks, hard to recover). This article will share in detail the journey of abandoning the "ClickOps" habit to embrace the Infrastructure as Code (IaC) mindset through Terraform — a solution to manage the entire cloud infrastructure using source code instead of manual operations.
 
-Key takeaways:
+Key takeaways to grasp:
 
-* Cannot Access the Website: This is the most common error, often resulting in a "This site can't be reached" or timeout message. Causes range from unstarted EC2 instances and incorrect IPs to Security Groups missing inbound rules (e.g., opening only SSH port 22 but forgetting HTTP 80 or HTTPS 443).
-* HTTP 403 Forbidden: This means the request reached the server but lacks permission. In AWS, this typically occurs due to missing IAM User permissions, unassigned IAM Roles, or misconfigured Amazon S3 Bucket Policies. AWS encourages using IAM Roles for temporary permissions instead of hardcoding Access Keys.
-* HTTP 500 Internal Server Error: A generic browser error that hides actual root causes like code exceptions, database timeouts, missing environment variables, or memory exhaustion. Amazon CloudWatch is crucial here to collect Application and System Logs, enabling faster troubleshooting.
-* Server Overload During Traffic Spikes: A system running smoothly for a few users can crash when hundreds access it simultaneously, causing high CPU utilization and request timeouts. Combining Amazon EC2 Auto Scaling with an Elastic Load Balancer automatically provisions more servers to distribute the load and maintain performance.
-* Data Loss After Server Replacement: Storing uploaded files directly on an EC2 instance risks permanent data loss if the server crashes. Amazon S3 should be used to store images, videos, and backups, decoupling data storage from application logic to reduce risk and improve scalability.
+* Turning infrastructure into source code (IaC): Define all resources (Server, Network, Database, Firewall) as configuration files using HCL (HashiCorp Configuration Language), allowing for Git storage, code review, and easy version history management.
+* Avoiding risks on Production with "Plan" and "Apply": The **terraform plan** mechanism allows you to preview exact changes (Create, Modify, Delete) before actual execution, drastically minimizing the risk of misconfiguration or accidental deletion of critical infrastructure.
+* Centralized and secure State Management: Solves data conflict and security leakage issues during teamwork by using a Remote Backend (storing the **terraform.tfstate** file on Amazon S3) combined with the State Locking mechanism (via DynamoDB).
+* Code reusability with Modules: Packages related resource clusters into standard Modules (like VPC, RDS) for flexible reuse, ensuring the Dev and Prod environments are 100% architecturally identical.
+* Infrastructure Drift Control: Automatically scans and detects deviations when someone manually modifies the infrastructure on the Console, thereby proposing a plan to synchronize the system back to the correct standard state (Single Source of Truth) defined in the code.
 
-Most application deployment issues do not stem from "bad code", but rather from how the system is configured and operated. A stable application requires comprehensive logging, proper access management, fault-tolerant design, and a solid scalability plan. This is why AWS builds a complete ecosystem supporting the deployment, monitoring, and operation of applications in real-world environments.
+Shifting from a manual operation mindset to "Infrastructure as Code" requires a bit of initial familiarization time, but it is an indispensable skill for building standardized, reliable, and professional cloud systems.
 
+![Infrastructure management model with Terraform](/images/blog3.jpg)
 
 References:
 
-* [Auto Scaling Documentation](https://docs.aws.amazon.com/autoscaling/)
-* [Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html)
-* [CloudWatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html)
-* [AWS Identity and Access Management](https://docs.aws.amazon.com/iam/)
+* [Terraform AWS Provider Docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+* [Terraform Recommended Best Practices](https://developer.hashicorp.com/terraform/tutorials)
+* [AWS Backend S3 & DynamoDB](https://developer.hashicorp.com/terraform/language/settings/backends/s3)
