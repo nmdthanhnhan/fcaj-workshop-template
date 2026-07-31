@@ -10,10 +10,10 @@ pre: " <b> 3. </b> "
 This section will list and introduce the blogs you have posted to [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj).
 
 ### [Blog 1 - THE CONNECTION EXHAUSTION PROBLEM BETWEEN AWS LAMBDA AND AMAZON RDS](3.1-Blog1/)
-This blog details the Connection Exhaustion problem when combining AWS Lambda's serverless architecture with a relational database (Amazon RDS). It also analyzes how Amazon RDS Proxy acts as an intermediary filter (Multiplexing) to thoroughly solve this bottleneck, allowing the system to scale flexibly while maintaining database stability.
+This blog dissects the Connection Exhaustion nightmare when combining the serverless architecture of AWS Lambda with a relational database (Amazon RDS). It also analyzes how Amazon RDS Proxy acts as a middleman filter (Multiplexing) to completely resolve this bottleneck, enabling the system to scale flexibly while keeping the database perfectly stable.
 
-### [Blog 2 - SECURITY IN SOFTWARE DEVELOPMENT – MORE THAN JUST WRITING SECURE CODE](3.2-Blog2/)
-A smoothly running application is not necessarily secure once exposed to the Internet. This blog summarizes core AWS security principles: avoiding hardcoded Access Keys, applying Least Privilege, designing network tiers (Public/Private Subnets), and utilizing services like AWS WAF, Amazon GuardDuty, and Inspector for continuous system monitoring and protection.
+### [Blog 2 - SECURITY IN SOFTWARE DEVELOPMENT: MORE THAN JUST WRITING SECURE CODE](3.2-Blog2/)
+An application running smoothly is not guaranteed to be secure once exposed to the Internet. This blog summarizes the core security principles on AWS: from avoiding hardcoded Access Keys and enforcing Least Privilege, to designing Public/Private Subnets and leveraging services like AWS WAF, Amazon GuardDuty, and Inspector for continuous system protection.
 
-### [Blog 3 - COMMON ERRORS WHEN DEPLOYING APPLICATIONS AND HOW AWS HELPS RESOLVE THEM](3.3-Blog3/)
-Operating in the Cloud often introduces more real-world issues than local development. This article compiles classic errors such as website inaccessibility, 403 Forbidden permission errors, cryptic 500 Internal Server Errors, and data loss risks, providing effective solutions using the robust AWS management ecosystem.
+### [Blog 3 - INFRASTRUCTURE MANAGEMENT WITH TERRAFORM – NOT JUST CLICKING ON THE CONSOLE](3.3-Blog3/)
+This article shares the journey of abandoning the manual "ClickOps" habit to embrace the Infrastructure as Code (IaC) mindset using Terraform. It highlights core values such as using Plan/Apply to preview changes and avoid risks in Production, securely managing State files with S3 and DynamoDB, and achieving flexible architectural reusability through Modules.
