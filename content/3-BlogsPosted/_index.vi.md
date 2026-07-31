@@ -10,10 +10,10 @@ pre: " <b> 3. </b> "
 Phần này sẽ liệt kê và giới thiệu các bài blogs mà bạn đã đăng lên [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj).
 
 ### [Blog 1 - BÀI TOÁN CẠN KIỆT KẾT NỐI GIỮA AWS LAMBDA VÀ AMAZON RDS](3.1-Blog1/)
-Bài viết này chia sẻ chi tiết về bài toán Cạn kiệt kết nối (Connection Exhaustion) khi kết hợp kiến trúc phi máy chủ AWS Lambda với cơ sở dữ liệu quan hệ (Amazon RDS). Đồng thời, bài viết cũng phân tích cách Amazon RDS Proxy hoạt động như một lớp màng lọc trung gian (Multiplexing) để giải quyết triệt để nút thắt cổ chai này, giúp hệ thống mở rộng linh hoạt mà vẫn đảm bảo an toàn.
+Bài viết này mổ xẻ chi tiết về "cơn ác mộng" cạn kiệt kết nối (Connection Exhaustion) khi ghép nối kiến trúc phi máy chủ (Serverless) của AWS Lambda với cơ sở dữ liệu quan hệ Amazon RDS. Qua đó, mình phân tích cách Amazon RDS Proxy đóng vai trò như một màng lọc trung gian (Multiplexing) để hóa giải triệt để nút thắt này, giúp hệ thống tha hồ mở rộng linh hoạt mà Database vẫn sống khỏe và an toàn.
 
-### [Blog 2 - BẢO MẬT TRONG PHÁT TRIỂN PHẦN MỀM – KHÔNG CHỈ LÀ VIẾT CODE AN TOÀN](3.2-Blog2/)
-Một ứng dụng chạy mượt mà chưa chắc đã là một ứng dụng an toàn khi đưa lên Internet. Bài blog này đúc kết những nguyên tắc bảo mật cốt lõi trên AWS như: không lưu Access Key trong mã nguồn, áp dụng quyền tối thiểu (Least Privilege), phân tách mạng Public/Private Subnet, và tận dụng các dịch vụ như AWS WAF, Amazon GuardDuty, Inspector để giám sát, bảo vệ hệ thống liên tục.
+### [Blog 2 - BẢO MẬT TRONG PHÁT TRIỂN PHẦN MỀM: KHÔNG CHỈ LÀ VIẾT CODE AN TOÀN](3.2-Blog2/)
+Một ứng dụng chạy mượt mà chưa chắc đã an toàn một khi đã "phơi mình" ra Internet. Bài blog này là bản tóm tắt những nguyên tắc sống còn về bảo mật trên AWS: từ việc tuyệt đối không hardcode Access Key, áp dụng quyền tối thiểu (Least Privilege), quy hoạch mạng Public/Private Subnet hợp lý, cho đến cách dùng các dịch vụ như AWS WAF, Amazon GuardDuty hay Inspector để giám sát và bảo vệ hệ thống liên tục.
 
-### [Blog 3 - NHỮNG LỖI THƯỜNG GẶP KHI TRIỂN KHAI ỨNG DỤNG VÀ CÁCH AWS GIÚP XỬ LÝ](3.3-Blog3/)
-Quá trình vận hành thực tế trên Cloud luôn phát sinh nhiều vấn đề hơn lúc code trên máy cá nhân. Bài viết tổng hợp các lỗi kinh điển như không thể truy cập website, lỗi phân quyền 403 Forbidden, lỗi 500 Internal Server Error ẩn giấu nguyên nhân thực sự, hay rủi ro mất dữ liệu, từ đó đưa ra các hướng giải quyết hiệu quả bằng hệ sinh thái quản lý của AWS.
+### [Blog 3 - QUẢN LÝ HẠ TẦNG VỚI TERRAFORM – KHÔNG CHỈ LÀ CLICK ON THE CONSOLE](3.3-Blog3/)
+Bài viết chia sẻ hành trình từ bỏ thói quen click chuột thủ công (ClickOps) trên AWS Console để chuyển sang tư duy quản lý toàn bộ hạ tầng bằng mã nguồn (Infrastructure as Code) với Terraform. Mình đúc kết các giá trị cốt lõi như tính năng Plan/Apply giúp tránh rủi ro trên Production, cách quản lý file State an toàn bằng S3 kết hợp DynamoDB, cùng khả năng tái sử dụng cấu trúc linh hoạt thông qua Modules.
