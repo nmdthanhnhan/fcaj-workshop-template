@@ -24,7 +24,7 @@ Các điểm chính cần nắm:
 
 Chuyển từ tư duy thao tác tay sang "Infrastructure as Code" đòi hỏi một chút thời gian làm quen ban đầu, nhưng đây là kỹ năng không thể thiếu để xây dựng các hệ thống đám mây chuẩn hóa, tin cậy và chuyên nghiệp.
 
-![Mô hình quản lý hạ tầng với Terraform](/images/post2.jpg)
+![Mô hình quản lý hạ tầng với Terraform](/images/blog3.jpg)
 
 Tài liệu tham khảo:
 
