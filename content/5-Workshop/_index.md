@@ -25,9 +25,8 @@ The system combines the power of Event-Driven Automation architecture and AWS Se
 
 #### Content
 
-1. [Workshop overview](5.1-Workshop-overview)
-2. [Prerequiste](5.2-Prerequiste/)
-3. [Access S3 from VPC](5.3-S3-vpc/)
-4. [Access S3 from On-premises](5.4-S3-onprem/)
-5. [VPC Endpoint Policies (Bonus)](5.5-Policy/)
-6. [Clean up](5.6-Cleanup/)
+1. [Overview (Workshop Overview)](5.1-Workshop-overview/)
+2. [Prerequisites](5.2-Prerequiste/)
+3. [Step-by-Step Implementation](5.3-Implementation/)
+4. [Test & Validation](5.4-Test-Validation/)
+5. [Resource Clean-up](5.5-Cleanup/)
