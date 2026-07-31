@@ -1,5 +1,5 @@
 ---
-title: "Infrastructure Management with Terraform – Not Just Clicking on the Console"
+title: "Blog 3"
 date: 2026-07-31
 weight: 3
 chapter: false
